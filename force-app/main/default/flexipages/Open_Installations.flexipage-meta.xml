@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <FlexiPage xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>test</description>
     <flexiPageRegions>
         <name>header</name>
         <type>Region</type>
@@ -79,7 +80,7 @@
         <name>sidebar</name>
         <type>Region</type>
     </flexiPageRegions>
-    <masterLabel>Installation Record Page</masterLabel>
+    <masterLabel>Open Installations</masterLabel>
     <sobjectType>Installation__c</sobjectType>
     <template>
         <name>flexipage:recordHomeTemplateDesktop</name>
