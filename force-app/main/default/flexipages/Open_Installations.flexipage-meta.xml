@@ -79,7 +79,7 @@
         <name>sidebar</name>
         <type>Region</type>
     </flexiPageRegions>
-    <masterLabel>Installation Record Page</masterLabel>
+    <masterLabel>Open Installations</masterLabel>
     <sobjectType>Installation__c</sobjectType>
     <template>
         <name>flexipage:recordHomeTemplateDesktop</name>
