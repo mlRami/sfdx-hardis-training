@@ -1,4 +1,8 @@
 {
+    "vsCodeSfdxHardis.autorunCommands": [
+        "node scripts/training.mjs"
+    ],
+    "xml.preferences.showSchemaDocumentationType": "none",
     "workbench.colorCustomizations": {
         "statusBar.background": "#05628a",
         "statusBar.foreground": "#ffffff",
@@ -9,8 +13,5 @@
         "activityBar.activeBorder": "#05628a",
         "activityBarBadge.background": "#05628a",
         "activityBarBadge.foreground": "#ffffff"
-    },
-    "vsCodeSfdxHardis.autorunCommands": [
-        "node scripts/training.mjs"
-    ]
+    }
 }
